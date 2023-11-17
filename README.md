@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miraclys
 - 👀 SDUer
 - 🌱 I’m currently learning CS
-- 📫 How to reach me  QQ : 2496438098
+- 📫 How to reach me mail : miraclysyunsenl@gmail.com
 
 <!---
 Miraclys/Miraclys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
